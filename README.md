@@ -24,22 +24,22 @@ Model the price of houses with the available independent variables. This model w
 
 ## Conclusions
 - The optimal lambda value in case of Ridge and Lasso is as below: 
-Ridge - 4
-Lasso - 0.0001
+1) Ridge - 4
+2) Lasso - 0.0001
 
 - Top Five Predictors of Ridge are
-OverallCond_9
-Neighborhood_Crawfor
-OverallQual_9
-OverallCond_8
-Neighborhood_StoneBr
+1) OverallCond_9
+2) Neighborhood_Crawfor
+3) OverallQual_9
+4) OverallCond_8
+5) Neighborhood_StoneBr
 
 - Top Five Predictors of Lasso are
-OverallQual_10
-OverallQual_9
-OverallCond_9
-FullBath_3
-BsmtFullBath_2
+1) OverallQual_10
+2) OverallQual_9
+3) OverallCond_9
+4) FullBath_3
+5) BsmtFullBath_2
 
 ## Technologies Used
 - Python 3.8.8 Pandas 1.2.4 Numpy 1.20.1 Matplotlib 3.3.4 Seaborn 0.11.1 Sklearn 0.24.1
